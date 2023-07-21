@@ -159,7 +159,5 @@ public class Main {
            System.out.println("Максимальное число " + three);
        }
 
-
     }
-
 }
